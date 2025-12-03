@@ -1,0 +1,7 @@
+{
+  "name": "오커머?",
+  "description": "Find your perfect coffee match based on your daily mood and weather. A daily coffee recommender powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
